@@ -1,0 +1,11 @@
+Nishtha Mathur, Rajesh Bansode,
+AES Based Text Encryption Using 12 Rounds with Dynamic Key Selection,
+Procedia Computer Science,
+Volume 79,
+2016,
+Pages 1036-1043,
+ISSN 1877-0509,
+https://doi.org/10.1016/j.procs.2016.03.131.
+(https://www.sciencedirect.com/science/article/pii/S1877050916002623)
+Abstract: Data security has a major role in the development of communication system, where more randomization in the secret keys increases the security as well as the complexity of the cryptography algorithms. In the recent years network security has become an important concern. Cryptography plays a vital role in the information security system against various attacks. Efficient and newer versions of cryptography techniques can help to reduce this security threat. The Advanced Encryption Standard is a strong symmetric key cryptographic algorithm which uses a number of table look ups to increase its performance. The Cache Timing Attack correlates the timing details for encryption under a known key with an unknown key to infer the unknown key. This paper proposes an extension of a public-key cryptosystem to support a private key cryptosystem which is a combination of Advanced Encryption Standard and ECC. The past results have been computed on the basis of AES key length as 128 bit and no. of iterations as 10.To increase competency and to minimize drawbacks this paper proposes a hybrid encryption scheme. The parameters to be studied will primarily focus on the key length, no. of iterations and the type of side channel attack to be implemented. The key length for this work has been increased to 192 bit and the no. of iterations taken will be 12.
+Keywords: AES; Countermeasures; Cryptography; ECC; Side channel attack; Hybrid algorithm; Security; Encryption; Decryption.
